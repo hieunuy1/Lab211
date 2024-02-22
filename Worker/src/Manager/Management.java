@@ -25,6 +25,7 @@ public class Management {
 
     public Management() {
         wList = new ArrayList<>();
+        shList= new ArrayList<>();
     }
 
     public void addWorker() {
